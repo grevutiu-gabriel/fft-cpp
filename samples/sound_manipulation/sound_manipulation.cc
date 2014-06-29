@@ -1,6 +1,7 @@
 #include "../../FFT.h"
 #include <iostream>
 #include <vector>
+#include <cstdio>
 
 #define PI 3.14159265
 #define EPSILON 0.000001
